@@ -1,2 +1,2 @@
-# Chat.Mit
+# MitChat
 Сompletely anonymous chat
